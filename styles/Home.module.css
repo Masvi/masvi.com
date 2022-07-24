@@ -15,12 +15,15 @@
 }
 
 .main p {
-  font-size: 2em;
+  font-size: 1.2rem;
   line-height: 1.4;
   letter-spacing: .1em;
   max-width: 28em;
   text-align: justify;
+}
 
+.main span {
+  font-weight: 700;
 }
 
 .main h1 {
