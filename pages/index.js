@@ -18,9 +18,9 @@ const Home = () => (
     <main className={styles.main}>
       <h1>Hi,</h1>
       <p className={styles.grid}>
-        My name is Jean Masvi, I've ben working with frontend for the last 4
+        My name is Jean Masvi, I`ve ben working with frontend for the last 4
         years, and switching between frameworks like Angular, Vue and most
-        recently React (and Next JS). Today I'm work as a Frontend Engineer in
+        recently React (and Next JS). Today I`m work as a Frontend Engineer in
         retail company using daily React, Next GraphQl and a lot of based
         Javascript. Contrary to popular belief, Lorem Ipsum is not simply random
         text. It has roots in a piece of classical Latin literature from 45 BC,
