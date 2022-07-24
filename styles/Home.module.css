@@ -1,5 +1,5 @@
 .container {
-  padding: 0 2rem;
+  padding: 0 1rem;
 }
 
 .main {
@@ -15,10 +15,12 @@
 }
 
 .main p {
-  font-size: 1.6em;
+  font-size: 2em;
   line-height: 1.4;
-  letter-spacing: .2em;
+  letter-spacing: .1em;
   max-width: 28em;
+  text-align: justify;
+
 }
 
 .main h1 {
@@ -38,7 +40,7 @@
   cursor: pointer;
   list-style: none;
   margin-left: 1em;
-  font-size: 1.2em;
+  font-size: 1.5em;
   letter-spacing: .1em;
 }
 
@@ -55,7 +57,7 @@
 .main li::before {
   content: " ";
   position: absolute;
-  inset: 1rem 0 0 0;
+  inset: 1.2rem 0 0 0;
   background: hsl(200 100% 30%);
   z-index: -1;
   transition: transform .3s ease;
