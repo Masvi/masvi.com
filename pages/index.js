@@ -4,7 +4,7 @@ import styles from "../styles/Home.module.css";
 const Home = () => (
   <div className={styles.container}>
     <Head>
-      <title>Jean Masvi</title>
+      <title>Jean Masvi </title>
       <meta
         name="description"
         content="My name is Jean Masvi, and I'am a Frontend Engineer and this is my website"
@@ -16,7 +16,7 @@ const Home = () => (
     </Head>
 
     <main className={styles.main}>
-      <h1>Hi,</h1>
+      <h1>Hi there, 👋</h1>
       <p className={styles.grid}>
         My name is Jean Masvi, I`ve ben working with frontend for the last 4
         years, and switching between frameworks like Angular, Vue and most
