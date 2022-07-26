@@ -30,7 +30,7 @@ const Home = () => (
         the cites of the word in classical literature, discovered the
         undoubtable source.
       </p>
-      <>
+      <div className={styles.links}>
         <ul>
           <li>
             <a
@@ -54,7 +54,7 @@ const Home = () => (
           </li>
           <li alt="Jean Masvi">jeanmasvi@gmail.com</li>
         </ul>
-      </>
+      </div>
     </main>
   </div>
 );

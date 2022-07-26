@@ -37,13 +37,14 @@
   display: flex;
   padding: 0;
   margin: 0;
+  max-width: 28em;
 }
 
 .main li {
   cursor: pointer;
   list-style: none;
   margin-left: 1em;
-  font-size: 1.5em;
+  font-size: 1.4em;
   letter-spacing: .1em;
 }
 
@@ -60,7 +61,7 @@
 .main li::before {
   content: " ";
   position: absolute;
-  inset: 1.2rem 0 0 0;
+  inset: 1.6rem 0 0 0;
   background: hsl(200 100% 30%);
   z-index: -1;
   transition: transform .3s ease;
@@ -77,3 +78,6 @@
   margin: 0
 }
 
+.links {
+  max-width: 28em;
+}
