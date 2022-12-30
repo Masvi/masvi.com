@@ -18,17 +18,14 @@ const Home = () => (
     <main className={styles.main}>
       <h1>Hi there, 👋</h1>
       <p className={styles.grid}>
-        My name is Jean Masvi, I`ve ben working with frontend for the last 4
-        years, and switching between frameworks like Angular, Vue and most
-        recently React (and Next JS). Today I`m work as a Frontend Engineer in
-        retail company using daily React, Next GraphQl and a lot of based
-        Javascript. Contrary to popular belief, Lorem Ipsum is not simply random
-        text. It has roots in a piece of classical Latin literature from 45 BC,
-        making it over 2000 years old. Richard McClintock, a Latin professor at
-        Hampden-Sydney College in Virginia, looked up one of the more obscure
-        Latin words, consectetur, from a Lorem Ipsum passage, and going through
-        the cites of the word in classical literature, discovered the
-        undoubtable source.
+        My name is Jean and I am a software engineer with a background
+        in Internet Systems. I have a passion for front-end development and have
+        experience working with various frameworks, including Vue, React, Next,
+        and Angular. Currently, I am working as a front end engineer at a big
+        retail company in Brazil where I utilize React, Next, and GraphQL on a
+        daily basis. I am always looking to learn and grow as a developer, and
+        am excited to see what the future holds for me in this ever-evolving
+        field. =)
       </p>
       <div className={styles.links}>
         <ul>
