@@ -80,3 +80,9 @@
 .links {
   max-width: 28em;
 }
+
+@media (prefers-color-scheme: dark) {
+  .main h1 {
+    color: #666666;
+  }
+}
